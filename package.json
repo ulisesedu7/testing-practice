@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulisesedu7/testing-practive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulisesedu7/testing-practive/issues"
+  },
+  "homepage": "https://github.com/ulisesedu7/testing-practive#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
