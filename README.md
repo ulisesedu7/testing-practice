@@ -1,17 +1,12 @@
-# Awesome-Books
+# Testing Jest 
 
-This repository contains an web app that allows to add and remove book's data using Javascript.
+This repository contains some functions tested with Jest.
 
 ## Built With
 
-- HTML
-- CSS
 - Javascript
 - Git & Github
 - WebPack
-
-## Live Demo
-- Check the live demo of my page [here]()
 
 ## Getting Started
 
